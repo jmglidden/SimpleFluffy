@@ -1,0 +1,30 @@
+#GitHub Default C++ .gitignore
+##############################
+ ## Compiled Object files
+ #*.slo
+ #*.lo
+ #*.o
+ #*.obj
+
+ ## Compiled Dynamic libraries
+ #*.so
+ #*.dylib
+ #*.dll
+
+ ## Compiled Static libraries
+ #*.lai
+ #*.la
+ #*.a
+ #*.lib
+
+ ## Executables
+ #*.exe
+ #*.out
+ #*.app
+#
+
+#CD Recommended .gitignore from http://www.chiefdelphi.com/forums/showthread.php?t=124092&page=2
+*.d
+*.o
+ctdt.c
+ctdt.o
